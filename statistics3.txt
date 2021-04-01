@@ -1,0 +1,10 @@
+Simulation 3
+Statistics after 1000 days:
+
+Average number of animals: 20.91
+Average number of plants: 356.57
+Dominant genome:
+[0, 0, 0, 1, 1, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 4, 4, 4, 4, 5, 5, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7]
+Average energy level: 12588.25
+Average life span: 98.61
+Average number of children: 1.60

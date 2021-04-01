@@ -1,0 +1,14 @@
+{
+  "width": 500,
+  "height": 400,
+  "startEnergy": 8000,
+  "moveEnergy": 100,
+  "plantEnergy": 750,
+  "jungleRatio": 0.05,
+
+  "size": 10,
+  "refreshSpeed": 60,
+  "startPopulation": 50,
+  "copulationEnergyRatio": 0.5,
+  "plantsPerDay": 4
+}
